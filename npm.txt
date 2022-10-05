@@ -1,0 +1,14 @@
+Node Package Manager
+npm install <dep>
+"package" is a node project
+
+package.json - project info
+
+when pulling down a project, run "npm install" to install all dependencies
+
+
+NPX - node package Xecute
+
+
+
+(╯°□°）╯︵ ┻━┻
